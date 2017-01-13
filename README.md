@@ -5,6 +5,8 @@
 
 # Tools and models used:
 - Ipython console (Python)
+- Pivot function
+- Matplotlib
 - Pandas
 - Scikit text processing features
 - KNearest neighbors
